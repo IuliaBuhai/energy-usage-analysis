@@ -16,7 +16,7 @@ This project analyzes energy usage data from 2010, focusing on total energy cons
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/energy-usage-analysis.git
+    git clone https://github.com/IuliaBuhai/energy-usage-analysis.git
     ```
 
 2. Install dependencies:
